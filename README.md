@@ -1,7 +1,7 @@
 - 👋 Hi, I’m seungmoo lee
-- 👀 I’m interested in 주식
-- 🌱 I’m currently learning Docker, K8S, Kafka etc...
-- 💞️ I’m looking to collaborate on E-Commerce Domain
+- 👀 I’m interested in 주식, developing
+- 🌱 I’m currently learning MSA, Kafka etc...
+- 💞️ I’m looking to collaborate on Web Service Domain
 - 📫 How to reach me "email : dltmdan92@gmail.com"
 
 <!---
